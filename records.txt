@@ -1,0 +1,3 @@
+iman,20,lahore
+isra,15,okara
+taiba,18,ksk

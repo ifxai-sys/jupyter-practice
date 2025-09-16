@@ -1,0 +1,7 @@
+4
+5
+6
+7
+Average = 5.5
+Maximum number is 7
+Minimum number is 4
